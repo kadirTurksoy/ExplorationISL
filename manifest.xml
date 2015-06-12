@@ -1,0 +1,21 @@
+<package>
+  <description brief="explorationISL">
+
+     explorationISL
+
+  </description>
+  <author>ISL</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/explorationISL</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+   <depend package="opencv2"/>
+   <depend package="geometry_msgs"/>
+  <depend package="drrobot_jaguarV2_player"/>
+  <depend package="dynamic_reconfigure"/>
+
+</package>
+
+
